@@ -1,0 +1,1 @@
+# A-Novel-Hand-Gesture-Recognition-System-Using-MediaPipe-and-OpenCV-for-Virtual-Mouse-Control-.
